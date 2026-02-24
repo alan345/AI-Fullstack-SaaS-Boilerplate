@@ -56,7 +56,6 @@
 | <a href="https://www.typescriptlang.org">TypeScript</a>  | TypeScript is a typed superset of JavaScript                  | <a href="https://github.com/microsoft/TypeScript"><img src="https://img.shields.io/github/stars/microsoft/TypeScript?style=flat-square" alt="GitHub Repo stars" /></a>       |
 | <a href="https://vitejs.dev">Vite</a>                    | Next generation frontend tooling. It's fast!                  | <a href="https://github.com/vitejs/vite"><img src="https://img.shields.io/github/stars/vitejs/vite?style=flat-square" alt="GitHub Repo stars" /></a>                         |
 | <a href="https://zod.dev">Zod</a>                        | TypeScript-first schema validation with static type inference | <a href="https://github.com/colinhacks/zod"><img src="https://img.shields.io/github/stars/colinhacks/zod?style=flat-square" alt="GitHub Repo stars" /></a>                   |
-| <a href="https://zustand.docs.pmnd.rs/">Zustand</a>      | Bear necessities for state management in React                | <a href="https://github.com/pmndrs/zustand"><img src="https://img.shields.io/github/stars/pmndrs/zustand?style=flat-square" alt="GitHub Repo stars" /></a>                   |
 
 ## Star History
 
