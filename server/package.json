@@ -12,15 +12,15 @@
   },
   "dependencies": {
     "@fastify/cookie": "^11.0.2",
-    "@fastify/cors": "^11.1.0",
+    "@fastify/cors": "^11.2.0",
     "@fsb/drizzle": "workspace:*",
     "@fsb/shared": "workspace:*",
-    "@trpc/server": "^11.8.0",
-    "axios": "^1.13.5",
-    "better-auth": "^1.4.19",
+    "@trpc/server": "^11.13.4",
+    "axios": "^1.13.6",
+    "better-auth": "^1.5.5",
     "dotenv": "^17.3.1",
-    "fastify": "^5.8.1",
-    "openai": "^6.24.0",
+    "fastify": "^5.8.2",
+    "openai": "^6.32.0",
     "zod": "^4.3.6"
   },
   "devDependencies": {
