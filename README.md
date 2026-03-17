@@ -59,7 +59,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=alan345/Fullstack-SaaS-Boilerplate&type=Date)](https://www.star-history.com/#alan345/Fullstack-SaaS-Boilerplate&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=alan345/AI-Fullstack-SaaS-Boilerplate&type=Date)](https://www.star-history.com/#alan345/Fullstack-SaaS-Boilerplate&Date)
 
 ## Features
 
