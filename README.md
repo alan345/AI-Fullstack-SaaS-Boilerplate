@@ -136,11 +136,6 @@ The tests should be executed while the application is running.
 pnpm run test
 ```
 
-## Other recommendations
-
-- Need a component library? Check out [Chakra UI](https://v2.chakra-ui.com/)
-- This project uses [pnpm](https://pnpm.io/workspaces) workspaces for fast, disk-efficient installs
-
 ## Who is using FSB?
 
 - [Nachonacho.com](https://Nachonacho.com) - The world's largest marketplace for Software & Services
