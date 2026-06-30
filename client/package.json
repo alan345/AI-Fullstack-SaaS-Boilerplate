@@ -18,11 +18,11 @@
     "@trpc/client": "^11.13.4",
     "@trpc/server": "^11.13.4",
     "@trpc/tanstack-react-query": "^11.13.4",
-    "better-auth": "^1.5.5",
+    "better-auth": "^1.6.11",
     "dotenv": "^17.3.1",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
-    "react-router": "^7.13.1",
+    "react-router": "^7.15.1",
     "zustand": "^5.0.12"
   },
   "devDependencies": {
@@ -35,6 +35,6 @@
     "tailwindcss": "^4.1.13",
     "typescript": "^5.9.2",
     "typescript-eslint": "^8.44.1",
-    "vite": "^7.1.11"
+    "vite": "^7.3.5"
   }
 }

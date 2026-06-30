@@ -59,7 +59,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=alan345/Fullstack-SaaS-Boilerplate&type=Date)](https://www.star-history.com/#alan345/Fullstack-SaaS-Boilerplate&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=alan345/AI-Fullstack-SaaS-Boilerplate&type=Date)](https://www.star-history.com/#alan345/Fullstack-SaaS-Boilerplate&Date)
 
 ## Features
 
@@ -135,11 +135,6 @@ The tests should be executed while the application is running.
 ```
 pnpm run test
 ```
-
-## Other recommendations
-
-- Need a component library? Check out [Chakra UI](https://v2.chakra-ui.com/)
-- This project uses [pnpm](https://pnpm.io/workspaces) workspaces for fast, disk-efficient installs
 
 ## Who is using FSB?
 

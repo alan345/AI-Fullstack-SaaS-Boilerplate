@@ -1,5 +1,6 @@
 import { protectedProcedure, router } from "../trpc.js"
 import { z } from "zod"
+import { TRPCError } from "@trpc/server"
 import { userTable, drizzleOrm } from "@fsb/drizzle"
 const { eq, or, count, asc, ilike, and } = drizzleOrm
 
@@ -14,6 +15,9 @@ const userRouter = router({
       })
     )
     .mutation(async (opts) => {
+      if (opts.ctx.user.id !== opts.input.id) {
+        throw new TRPCError({ code: "FORBIDDEN", message: "Cannot update other users" })
+      }
       const db = opts.ctx.db
 
       const user = await db
