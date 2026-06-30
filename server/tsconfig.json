@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["es2023"],
+    "lib": ["es2023", "DOM"],
     "module": "ES2022",
     "target": "es2022",
 
