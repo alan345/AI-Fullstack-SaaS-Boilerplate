@@ -21,7 +21,7 @@
     "dotenv": "^17.3.1",
     "fastify": "^5.12.6",
     "openai": "^6.32.0",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^24.5.2",
